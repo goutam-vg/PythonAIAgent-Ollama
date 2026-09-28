@@ -1,1 +1,1 @@
-# PythonAIAgentFromScratch
+# ResearchAgentPy
